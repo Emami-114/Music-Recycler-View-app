@@ -1,3 +1,49 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="musicName1">Ramil</string>
+    <string name="musicName2">Anna Asti</string>
+    <string name="musicName3">LaScala</string>
+    <string name="musicName4">Mary Gu</string>
+    <string name="musicName5">ElMan</string>
+    <string name="musicName6">Asammuell</string>
+    <string name="musicName7">Enisa</string>
+    <string name="musicName8">Inna</string>
+    <string name="musicName9">Ido</string>
+    <string name="musicName10">Ramil</string>
+    <string name="musicName11">Eminem</string>
+    <string name="musicName12">Sido</string>
+    <string name="musicName13">David Guetta</string>
+    <string name="musicName14">Ava Max</string>
+    <string name="musicName15">Raf Camora</string>
+    <string name="musicName16">Mars</string>
+    <string name="musicName17">Ramil</string>
+    <string name="musicName18">Kakkar</string>
+    <string name="musicName19">Ramil</string>
+    <string name="musicName20">Dua Lipe</string>
+
+
+
+
+<!--    SubTitle   -->
+    <string name="musicSubTitle20">Ramil</string>
+    <string name="musicSubTitle19">Anna Asti</string>
+    <string name="musicSubTitle18">LaScala</string>
+    <string name="musicSubTitle17">Mary Gu</string>
+    <string name="musicSubTitle16">ElMan</string>
+    <string name="musicSubTitle15">Asammuell</string>
+    <string name="musicSubTitle14">Enisa</string>
+    <string name="musicSubTitle13">Inna</string>
+    <string name="musicSubTitle12">Ido</string>
+    <string name="musicSubTitle11">Ramil</string>
+    <string name="musicSubTitle10">Eminem</string>
+    <string name="musicSubTitle9">Sido</string>
+    <string name="musicSubTitle8">David Guetta</string>
+    <string name="musicSubTitle7">Ava Max</string>
+    <string name="musicSubTitle6">Raf Camora</string>
+    <string name="musicSubTitle5">Mars</string>
+    <string name="musicSubTitle4">Ramil</string>
+    <string name="musicSubTitle3">Kakkar</string>
+    <string name="musicSubTitle2">Ramil</string>
+    <string name="musicSubTitle1">Dua Lipe</string>
+
 </resources>
